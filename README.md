@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Chance
 
-🚀 DevOps Engineer | Platform Automation | CI/CD Specialist  
+🚀 DevSecOps Engineer | Platform Automation | CI/CD Specialist  
 📍 Based in Toronto, Canada 🇨🇦  
 💼 Currently working on optimizing developer experience and accelerating secure software delivery.
 
@@ -8,21 +8,21 @@
 
 ### 👨‍💻 About Me
 
-I'm a DevOps professional with a strong passion for **automation**, **cloud-native solutions**, and **building robust CI/CD pipelines**. With hands-on experience in tools like **GitHub Actions**, **Azure DevOps**, **Bitrise**, **Terraform**, and **ArgoCD**, I focus on delivering fast, secure, and scalable infrastructure for developer teams.
+I'm a DevSecOps professional with a strong passion for **automation**, **cloud-native solutions**, and **building robust CI/CD pipelines with secure**. With hands-on experience in tools like **GitHub Actions**, **Azure DevOps**, **Bitrise**, **Terraform**, **Vault** and **ArgoCD**, I focus on delivering fast, secure, and scalable infrastructure for developer teams.
 
 🔧 **Core Areas of Expertise:**
-- CI/CD Pipeline Design (GitHub Actions, Bitrise, Azure DevOps)
+- CI/CD Pipeline Design (GitHub Actions, Bitrise, Azure DevOps, Jenkins, GitLab)
 - Infrastructure as Code (Terraform, Helm)
-- Kubernetes & OpenShift Deployment
+- Kubernetes & OpenShift Deployment (ArgoCD)
 - Cloud Platforms: AWS, Azure, GCP
-- Observability & Monitoring (Prometheus, OpenTelemetry)
+- Observability & Monitoring (Prometheus, OpenTelemetry, DataDog)
 - Python & Shell scripting for automation
 
 ---
 
 ### 📌 Current Projects
 - 🚀 Automating secure onboarding for enterprise apps
-- 🔄 Migrating legacy Jenkins pipelines to GitHub Actions
+- 🔄 Migrating legacy Jenkins pipelines to GitHub Actions/Azure DevOps
 - 🧠 Mentoring peers on DevOps best practices & CI/CD design
 
 ---
